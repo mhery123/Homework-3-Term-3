@@ -1,0 +1,3 @@
+EmployeeNumber,LastName,FirstName,VacationLeaves,SickLeaves,EmergencyLeaves
+001,Doe,John,7,5,5
+002,Smith,Jane,10,5,5
